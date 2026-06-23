@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e5457a5ac8d2728b",
+    "id": "94d3659afe86c00a",
     "type": "split",
     "children": [
       {
-        "id": "9ee2af2c917372df",
+        "id": "f2c94f174941500e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f881e1794f600a8",
+            "id": "1ec9dac371f372bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9100a50959354a3",
+    "id": "bb0a18c455467d61",
     "type": "split",
     "children": [
       {
-        "id": "a3c4c10027851598",
+        "id": "fea65c36bfb8c0c1",
         "type": "tabs",
         "children": [
           {
-            "id": "df141894e978224b",
+            "id": "05317eb746620a66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "d70409e3757405fa",
+            "id": "593857dca56e5232",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "09155af9d435aeb3",
+            "id": "8dc469b8f03911cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "e2d2557b5d1533b2",
+    "id": "627a32a1b61af42e",
     "type": "split",
     "children": [
       {
-        "id": "0d4d7d1d92199d3b",
+        "id": "aae489c94d962e92",
         "type": "tabs",
         "children": [
           {
-            "id": "5f753044e973976c",
+            "id": "0ea995105b718590",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8124ca8800c81b52",
+            "id": "ece5352905df9ac1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "1f9079ab3ea4e875",
+            "id": "912f6e845a161323",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "d27e69bd021f4ab0",
+            "id": "c345361f1cb56c91",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Programming Master Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C Programming Master Roadmap"
+              "title": "Outline"
             }
           }
         ]
@@ -166,48 +159,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "github-sync:Sync with Remote": false
+      "bases:Create new base": false
     }
   },
-  "active": "3f881e1794f600a8",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "Office/Personal Stuff/Ideas/Ice Cream F2P/🍦 IceCream Simulator - GDD.md",
-    "Office/Personal Stuff/Ideas/Ice Cream F2P/🍦 IceCream Simulator - Economy Balancing.md",
-    "Office/Personal Stuff/Ideas/Ice Cream F2P/🍦 Ice Cream Game -- Monetization Layer Design.md",
-    "Office/Personal Stuff/Ideas/Ice Cream F2P/🍦 Ice Cream F2P Success Strategy.md",
-    "Office/Personal Stuff/Ideas/Ice Cream F2P",
-    "Office/Personal Stuff/Analysis/What You Actually Need.md",
-    "Office/Personal Stuff/Analysis/The Right Market Research Approach for a Solo Dev.md",
-    "Office/Personal Stuff/Analysis/High Retention Mechanics.md",
-    "Office/Personal Stuff/Ideas",
-    "Office/Personal Stuff/Career Roadmap.md",
-    "Office/Personal Stuff/Analysis",
-    "Office/Personal Stuff",
-    "Office/Office/Done Tasks/Task - Feature Course Liveliness.md",
-    "Office/Office/Guides/IOS Build Configuration.md",
-    "Office/Office/Done Tasks",
-    "Office/Office/Guides",
-    "Office/Office/In Progress.md",
-    "Office/Office",
-    "Office/Games to consider.md",
-    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
-    "Office/Documentation/V Container Documentation.md",
-    "Office/Documentation/UniTask CheatSheet.md",
-    "Office/Documentation/Unity Modular Architecture Guide.md",
-    "Office/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Office/Documentation/Git Commands.md",
-    "Office/Documentation",
-    "Office/Build Automation.md",
-    "Office",
-    "Documentations/Linux Commands.md",
-    "Documentations/Unity Modular Architecture Guide.md",
-    "Documentations/V Container.md",
-    "Books/1 - Learning Go An Idiomatic Approach to Real world Go Programming.pdf",
-    "Projects/Rough Ideas  3DS.md",
-    "Projects/Rough Ideas From DS.md",
-    "Learning Roadmaps/C Programming Roadmap.md"
-  ]
+  "active": "1ec9dac371f372bb",
+  "lastOpenFiles": []
 }

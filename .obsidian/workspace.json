@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e5457a5ac8d2728b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee2af2c917372df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f881e1794f600a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9100a50959354a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3c4c10027851598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df141894e978224b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d70409e3757405fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09155af9d435aeb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2d2557b5d1533b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d4d7d1d92199d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f753044e973976c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Programming Master Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C Programming Master Roadmap"
+            }
+          },
+          {
+            "id": "8124ca8800c81b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Programming Master Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C Programming Master Roadmap"
+            }
+          },
+          {
+            "id": "1f9079ab3ea4e875",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d27e69bd021f4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Programming Master Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C Programming Master Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3f881e1794f600a8",
+  "lastOpenFiles": [
+    "Documentations/Linux Commands.md",
+    "Documentations/Unity Modular Architecture Guide.md",
+    "Documentations/V Container.md",
+    "Books/1 - Learning Go An Idiomatic Approach to Real world Go Programming.pdf",
+    "Projects/Rough Ideas  3DS.md",
+    "Projects/Rough Ideas From DS.md",
+    "Learning Roadmaps/C Programming Roadmap.md",
+    "Documentations",
+    "Projects/Boutique Beats/Style savvy.md",
+    "Projects/Easy Video Downloader/Reference Websites.md",
+    "Learning Roadmaps/Go Roadmap.md",
+    "Learning Roadmaps/Go Books.md",
+    "Projects/Easy Video Downloader",
+    "Projects/Boutique Beats/Untitled.md",
+    "Projects/Boutique Beats",
+    "2025-09-30.md",
+    "Learning Roadmaps/Go Learning Roadmap.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/07_Audio_Bible.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/09_Retention_Events.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/11_Tech_Pipeline.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/13_Art_References.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/12_Roadmap_Scope.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/10_UI_UX_Flow.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/08_Economy_Progression.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/05_Customers_NPCs.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/03_Baking_Recipes.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/00_Overview.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/01_Game_Vision.md",
+    "Projects/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/Text File.txt",
+    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery",
+    "Projects/Bakery Simulator",
+    "Projects/Moon Farm/Game Design Doc/New Text Document.txt",
+    "Projects/Moon Farm/Game Design Doc/New folder",
+    "Untitled.base"
+  ]
+}

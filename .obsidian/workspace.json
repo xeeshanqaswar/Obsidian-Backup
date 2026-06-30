@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office/Documentation/Git Commands.md",
+                "file": "Game Ideation/Rough Ideas  3DS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Commands"
+              "title": "Rough Ideas  3DS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Office/Documentation/Git Commands.md",
+                "file": "Game Ideation/Rough Ideas  3DS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Commands"
+              "title": "Backlinks for Rough Ideas  3DS"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office/Documentation/Git Commands.md",
+                "file": "Game Ideation/Rough Ideas  3DS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git Commands"
+              "title": "Outline of Rough Ideas  3DS"
             }
           }
         ],
@@ -173,39 +173,39 @@
   },
   "active": "df141894e978224b",
   "lastOpenFiles": [
+    "Game Ideation/Rough Ideas From DS.md",
+    "Game Ideation/Rough Ideas  3DS.md",
+    "Game Ideation/Inspirations.md",
+    "Office/Documentation/Git Commands.md",
     "Untitled.md",
-    "Projects/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
-    "Projects/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md",
-    "Projects/Moon Farm/GDD - Moon Farm/7-NPC-Story-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/6-Full-Item-Crafting-Economy.md",
-    "Projects/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md",
-    "Projects/Moon Farm/GDD - Moon Farm/4-Player-Experience.md",
-    "Projects/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md",
-    "Projects/Moon Farm/GDD - Moon Farm/21-QA-Testing-Strategy.md",
-    "Projects/Moon Farm/GDD - Moon Farm/20-Marketing-Community-Plan.md",
-    "Projects/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
-    "Projects/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
-    "Projects/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/15-Village-World-Map-Layout-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/12-Farming-Crop-System-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md",
-    "Projects/Moon Farm/GDD - Moon Farm/10-Crafting-Progression-Artisan-Systems.md",
-    "Projects/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
-    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/14_Level_Design_Guidelines.md",
-    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/13_Art_References.md",
-    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/12_Roadmap_Scope.md",
-    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery/11_Tech_Pipeline.md",
-    "Projects/Moon Farm/GDD - Moon Farm",
-    "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery",
-    "Projects/Moon Farm",
-    "Projects/Game Project 1",
-    "Projects/Easy Video Downloader",
-    "Projects/Boutique Beats",
-    "Projects/Bakery Simulator",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/7-NPC-Story-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/6-Full-Item-Crafting-Economy.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/4-Player-Experience.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/21-QA-Testing-Strategy.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/20-Marketing-Community-Plan.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/15-Village-World-Map-Layout-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/12-Farming-Crop-System-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/10-Crafting-Progression-Artisan-Systems.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm",
+    "Game Ideation/Bakery Simulator/GDD - Cozy ASMR Bakery",
+    "Game Ideation/Moon Farm",
+    "Game Ideation/Game Project 1",
+    "Game Ideation/Easy Video Downloader",
+    "Game Ideation/Boutique Beats",
+    "Game Ideation/Bakery Simulator",
     "Projects",
     "Game Ideation",
     "Books/1 - Learning Go An Idiomatic Approach to Real world Go Programming.pdf"

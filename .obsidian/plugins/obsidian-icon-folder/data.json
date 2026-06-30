@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👔",
+      "🖥",
+      "🎲",
       "💸",
-      "🧠",
-      "🏢",
-      "📚",
-      "📂"
+      "🧠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,8 @@
   "Office": "🏢",
   "Game Ideation": "🧠",
   "Projects": "📂",
-  "Books/Finance": "💸"
+  "Books/Finance": "💸",
+  "Books/Game Development": "🎲",
+  "Books/Computer Science": "🖥",
+  "Books/Personal Gromming": "👔"
 }

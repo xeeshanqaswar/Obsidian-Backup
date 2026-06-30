@@ -11,12 +11,14 @@
             "id": "386e2515e6ca6862",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf"
+                "file": "Game Ideation/Game Inspirations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+              "icon": "lucide-file",
+              "title": "Game Inspirations"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+                "file": "Game Ideation/Game Inspirations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3D Math Primer for Graphics and Game Development 2nd Edition"
+              "title": "Backlinks for Game Inspirations"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+                "file": "Game Ideation/Game Inspirations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3D Math Primer for Graphics and Game Development 2nd Edition"
+              "title": "Outline of Game Inspirations"
             }
           }
         ],
@@ -172,13 +174,16 @@
   },
   "active": "386e2515e6ca6862",
   "lastOpenFiles": [
+    "Game Ideation/Rough Ideas  3DS.md",
     "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
+    "Office/Games to consider.md",
+    "Game Ideation/Rough Ideas From DS.md",
+    "Game Ideation/Game Inspirations.md",
+    "Office/Build Automation.md",
     "Books/Game Development",
     "Books/untitled folder",
     "Books/1 - Learning Go An Idiomatic Approach to Real world Go Programming.pdf",
-    "Game Ideation/Rough Ideas From DS.md",
-    "Game Ideation/Rough Ideas  3DS.md",
-    "Game Ideation/Inspirations.md",
     "Office/Documentation/Git Commands.md",
     "Untitled.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
@@ -198,15 +203,11 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/15-Village-World-Map-Layout-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/12-Farming-Crop-System-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/10-Crafting-Progression-Artisan-Systems.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm",
     "Game Ideation/Bakery Simulator/GDD - Cozy ASMR Bakery",
     "Game Ideation/Moon Farm",
     "Game Ideation/Game Project 1",
     "Game Ideation/Easy Video Downloader",
-    "Game Ideation/Boutique Beats",
-    "Game Ideation/Bakery Simulator"
+    "Game Ideation/Boutique Beats"
   ]
 }

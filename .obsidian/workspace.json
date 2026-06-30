@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Ideation/Game Inspirations.md",
+                "file": "Office/Personal Stuff/Career Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Inspirations"
+              "title": "Career Roadmap"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Ideation/Game Inspirations.md",
+                "file": "Office/Personal Stuff/Career Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Game Inspirations"
+              "title": "Backlinks for Career Roadmap"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Ideation/Game Inspirations.md",
+                "file": "Office/Personal Stuff/Career Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game Inspirations"
+              "title": "Outline of Career Roadmap"
             }
           }
         ],
@@ -174,16 +174,26 @@
   },
   "active": "386e2515e6ca6862",
   "lastOpenFiles": [
+    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
+    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
+    "Books/Computer Science",
+    "Computer Science/Structure and Interpretation of Computer Programs.pdf",
+    "Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
+    "Computer Science",
+    "Books/Finance/The-Little-Book-of-Common-Sense-Investing-PDF.pdf",
+    "Books/Finance",
+    "Books/Personal Gromming/The Illusion of Choice PDF.pdf",
+    "Books/Personal Gromming/BOUNDARIES The Book.pdf",
+    "Books/Personal Gromming",
+    "In Progress.md",
+    "Office/Personal Stuff/Career Roadmap.md",
+    "Office/Build Automation.md",
+    "Office/Office/In Progress.md",
+    "Game Ideation/Game Inspirations.md",
     "Game Ideation/Rough Ideas  3DS.md",
-    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Office/Games to consider.md",
     "Game Ideation/Rough Ideas From DS.md",
-    "Game Ideation/Game Inspirations.md",
-    "Office/Build Automation.md",
-    "Books/Game Development",
-    "Books/untitled folder",
-    "Books/1 - Learning Go An Idiomatic Approach to Real world Go Programming.pdf",
     "Office/Documentation/Git Commands.md",
     "Untitled.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
@@ -199,15 +209,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/15-Village-World-Map-Layout-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm",
-    "Game Ideation/Bakery Simulator/GDD - Cozy ASMR Bakery",
-    "Game Ideation/Moon Farm",
-    "Game Ideation/Game Project 1",
-    "Game Ideation/Easy Video Downloader",
-    "Game Ideation/Boutique Beats"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md"
   ]
 }

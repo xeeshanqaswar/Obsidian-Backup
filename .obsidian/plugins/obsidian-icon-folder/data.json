@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧠",
       "🏢",
       "📚",
       "📂",
-      "🍞",
-      "🌑"
+      "🍞"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,15 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Projects": "🖥",
   "Learning Roadmaps": "📘",
-  "Game Ideas": "🧠",
   "Resources": "💼",
-  "Projects/Moon Farm": "🌑",
-  "Projects/Moon Farm/GDD - Moon Farm": "🗃",
-  "Projects/Bakery Simulator": "🍞",
-  "Projects/Bakery Simulator/GDD - Cozy ASMR Bakery": "🗃",
   "Documentations": "📂",
   "Books": "📚",
-  "Office": "🏢"
+  "Office": "🏢",
+  "Game Ideation": "🧠"
 }

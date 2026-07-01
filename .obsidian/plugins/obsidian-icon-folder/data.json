@@ -36,7 +36,6 @@
   },
   "Learning Roadmaps": "📘",
   "Resources": "💼",
-  "Documentations": "📂",
   "Books": "📚",
   "Office": "🏢",
   "Game Ideation": "🧠",
@@ -44,5 +43,6 @@
   "Books/Finance": "💸",
   "Books/Game Development": "🎲",
   "Books/Computer Science": "🖥",
-  "Books/Personal Gromming": "👔"
+  "Books/Personal Gromming": "👔",
+  "Documents": "📂"
 }

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5d4f8c7121bc67",
+        "id": "438e3f789c8c6dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "386e2515e6ca6862",
+            "id": "c6d5bc0444447189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Office/Personal Stuff/Career Roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Git Cheatsheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Career Roadmap"
+              "icon": "lucide-file-text",
+              "title": "Git Cheatsheet"
             }
           }
         ]
@@ -172,8 +170,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "386e2515e6ca6862",
+  "active": "c6d5bc0444447189",
   "lastOpenFiles": [
+    "Documents/Linux Commands.md",
+    "Documents/Git Cheatsheet.pdf",
     "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
     "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Books/Computer Science",
@@ -183,8 +183,6 @@
     "Books/Finance/The-Little-Book-of-Common-Sense-Investing-PDF.pdf",
     "Books/Finance",
     "Books/Personal Gromming/The Illusion of Choice PDF.pdf",
-    "Books/Personal Gromming/BOUNDARIES The Book.pdf",
-    "Books/Personal Gromming",
     "In Progress.md",
     "Office/Personal Stuff/Career Roadmap.md",
     "Office/Build Automation.md",
@@ -208,7 +206,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md"
   ]
 }

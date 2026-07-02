@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "438e3f789c8c6dd9",
+        "id": "d48519416fd265b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d5bc0444447189",
+            "id": "a5f34f0e409a6521",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Git Cheatsheet.pdf"
+                "file": "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Git Cheatsheet"
+              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+            }
+          },
+          {
+            "id": "8a819c9d2c93ceb7",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.pixellab.ai/"
+              },
+              "icon": "lucide-file",
+              "title": "PixelLab - AI Generator for Pixel Art Game Assets"
+            }
+          },
+          {
+            "id": "33e5870297716b7f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=leonard"
+              },
+              "icon": "lucide-file",
+              "title": "leonard at DuckDuckGo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5
   },
   "right": {
     "id": "e2d2557b5d1533b2",
@@ -167,13 +192,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "c6d5bc0444447189",
+  "active": "33e5870297716b7f",
   "lastOpenFiles": [
-    "Documents/Linux Commands.md",
+    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Office/Task Board.md",
+    "Office/Build Automation.md",
+    "Learning Roadmaps/Go Roadmap.md",
+    "Untitled Kanban.md",
+    "Office/Untitled.canvas",
+    "Office/Tasks Board.md",
+    "- Check Broken state.md",
+    "Office/Task Sheet.md",
     "Documents/Git Cheatsheet.pdf",
+    "Documents/Linux Commands.md",
     "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
     "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Books/Computer Science",
@@ -185,7 +220,6 @@
     "Books/Personal Gromming/The Illusion of Choice PDF.pdf",
     "In Progress.md",
     "Office/Personal Stuff/Career Roadmap.md",
-    "Office/Build Automation.md",
     "Office/Office/In Progress.md",
     "Game Ideation/Game Inspirations.md",
     "Game Ideation/Rough Ideas  3DS.md",
@@ -200,12 +234,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/6-Full-Item-Crafting-Economy.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/4-Player-Experience.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/21-QA-Testing-Strategy.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/20-Marketing-Community-Plan.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md"
   ]
 }

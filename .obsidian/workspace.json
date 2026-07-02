@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d48519416fd265b1",
+        "id": "3901a21d5dd5cb41",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f34f0e409a6521",
+            "id": "0391e1b51e768ab2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Structure and Interpretation of Computer Programs"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -171,7 +169,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a5f34f0e409a6521",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
     "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",

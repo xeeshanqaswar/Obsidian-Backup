@@ -13,38 +13,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf"
+                "file": "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
-            }
-          },
-          {
-            "id": "8a819c9d2c93ceb7",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.pixellab.ai/"
-              },
-              "icon": "lucide-file",
-              "title": "PixelLab - AI Generator for Pixel Art Game Assets"
-            }
-          },
-          {
-            "id": "33e5870297716b7f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://duckduckgo.com/?q=leonard"
-              },
-              "icon": "lucide-file",
-              "title": "leonard at DuckDuckGo"
+              "title": "Structure and Interpretation of Computer Programs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +171,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "33e5870297716b7f",
+  "active": "a5f34f0e409a6521",
   "lastOpenFiles": [
+    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
+    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
     "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Office/Task Board.md",
     "Office/Build Automation.md",
@@ -209,8 +186,6 @@
     "Office/Task Sheet.md",
     "Documents/Git Cheatsheet.pdf",
     "Documents/Linux Commands.md",
-    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Books/Computer Science",
     "Computer Science/Structure and Interpretation of Computer Programs.pdf",
     "Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",

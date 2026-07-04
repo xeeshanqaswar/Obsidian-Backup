@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3901a21d5dd5cb41",
+        "id": "3a3acc1052d314a1",
         "type": "tabs",
         "children": [
           {
-            "id": "0391e1b51e768ab2",
+            "id": "7e4710a68a56436b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 300
   },
   "right": {
     "id": "e2d2557b5d1533b2",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Office/Personal Stuff/Career Roadmap.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Career Roadmap"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -109,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Programming Master Roadmap.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C Programming Master Roadmap"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -138,21 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office/Personal Stuff/Career Roadmap.md",
+                "file": "C Programming Master Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Career Roadmap"
+              "title": "Outline of C Programming Master Roadmap"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,48 +164,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "7e4710a68a56436b",
   "lastOpenFiles": [
-    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
-    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Office/Task Board.md",
-    "Office/Build Automation.md",
-    "Learning Roadmaps/Go Roadmap.md",
-    "Untitled Kanban.md",
-    "Office/Untitled.canvas",
-    "Office/Tasks Board.md",
-    "- Check Broken state.md",
-    "Office/Task Sheet.md",
     "Documents/Git Cheatsheet.pdf",
     "Documents/Linux Commands.md",
-    "Books/Computer Science",
-    "Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
-    "Computer Science",
-    "Books/Finance/The-Little-Book-of-Common-Sense-Investing-PDF.pdf",
-    "Books/Finance",
-    "Books/Personal Gromming/The Illusion of Choice PDF.pdf",
-    "In Progress.md",
-    "Office/Personal Stuff/Career Roadmap.md",
-    "Office/Office/In Progress.md",
-    "Game Ideation/Game Inspirations.md",
-    "Game Ideation/Rough Ideas  3DS.md",
-    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
-    "Office/Games to consider.md",
+    "Untitled Kanban.md",
+    "Office/Task Board.md",
     "Game Ideation/Rough Ideas From DS.md",
-    "Office/Documentation/Git Commands.md",
-    "Untitled.md",
+    "Game Ideation/Rough Ideas  3DS.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/7-NPC-Story-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/6-Full-Item-Crafting-Economy.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/4-Player-Experience.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/21-QA-Testing-Strategy.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/20-Marketing-Community-Plan.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/19-Monetization-Business-Model.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/18-Art-Animation-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/17-Audio-Design-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/16-UI-UX-Design-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/15-Village-World-Map-Layout-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/12-Farming-Crop-System-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/10-Crafting-Progression-Artisan-Systems.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm",
+    "Game Ideation/Moon Farm",
+    "Game Ideation/Game Project 1",
+    "Game Ideation/Easy Video Downloader",
+    "Game Ideation/Boutique Beats",
+    "Game Ideation/Bakery Simulator/GDD - Cozy ASMR Bakery",
+    "Game Ideation/Bakery Simulator",
+    "Game Ideation",
+    "Documents"
   ]
 }

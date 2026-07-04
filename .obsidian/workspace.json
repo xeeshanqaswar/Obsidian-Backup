@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +165,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7e4710a68a56436b",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
     "Documents/Git Cheatsheet.pdf",
     "Documents/Linux Commands.md",

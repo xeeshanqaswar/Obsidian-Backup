@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3acc1052d314a1",
+        "id": "1bd613eca99dac4c",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4710a68a56436b",
+            "id": "a10d5704343fd651",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "a10d5704343fd651",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2026-07-04.md",
     "Books/Computer Science/Programming/Unit Testing Principles, Practices, and Patterns [Final Version].pdf",
     "Books/Computer Science/Programming/the-pragmatic-programmer-your-journey-to-mastery_compress.pdf",
     "Books/Computer Science/Programming/Refactoring_ Improving the Design of Existing Code.pdf",
@@ -176,8 +178,6 @@
     "Books/Computer Science/Programming/clean-architecture-a-craftsmans-guide-to-software-structure-and-design_compress.pdf",
     "Books/Computer Science/Programming",
     "Books/Finance",
-    "Books/Finincial Literacy/The-Little-Book-of-Common-Sense-Investing-PDF.pdf",
-    "Books/Notes/Git-Cheat-Sheet.pdf",
     "Documents/Linux Commands.md",
     "Untitled Kanban.md",
     "Office/Task Board.md",
@@ -201,7 +201,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/14-Quest-Story-Structure-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/13-Player-Progression-System-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/12-Farming-Crop-System-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/10-Crafting-Progression-Artisan-Systems.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/11-World-Biomes-Resource-Nodes-Bible.md"
   ]
 }

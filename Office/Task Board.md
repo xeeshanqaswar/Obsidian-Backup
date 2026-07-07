@@ -10,15 +10,13 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Check Broken state 
-	- Tells me what assets or dependancies are local / modified based on given scene 
-	- Tell me where its dependancies exist. 
-	
-	⁃ Move to current group or create group for it.
 
 
 ## Completed
 
+- [ ] - Tells me what assets or dependancies are local / modified based on given scene 
+	- Tell me where its dependancies exist.
+	- Move to current group or create group for it.
 
 
 

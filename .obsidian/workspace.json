@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3901a21d5dd5cb41",
+        "id": "036eb560e777aa9a",
         "type": "tabs",
         "children": [
           {
-            "id": "0391e1b51e768ab2",
+            "id": "b5e3d46e5f043eda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3-Core-Gameplay-Pillars"
             }
           }
         ]
@@ -165,17 +169,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "card-board:CardBoard": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "b5e3d46e5f043eda",
   "lastOpenFiles": [
-    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
-    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
+    "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
     "Office/Task Board.md",
     "Office/Build Automation.md",
+    "Check Broken state.md",
+    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
+    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Learning Roadmaps/Go Roadmap.md",
     "Untitled Kanban.md",
     "Office/Untitled.canvas",
@@ -190,7 +196,6 @@
     "Computer Science",
     "Books/Finance/The-Little-Book-of-Common-Sense-Investing-PDF.pdf",
     "Books/Finance",
-    "Books/Personal Gromming/The Illusion of Choice PDF.pdf",
     "In Progress.md",
     "Office/Personal Stuff/Career Roadmap.md",
     "Office/Office/In Progress.md",
@@ -205,8 +210,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/7-NPC-Story-Bible.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/6-Full-Item-Crafting-Economy.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/4-Player-Experience.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/3-Core-Gameplay-Pillars.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/5-Gameplay-Systems.md"
   ]
 }

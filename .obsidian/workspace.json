@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66c6a5d8fdffe0ea",
+        "id": "625cd2fa8ee4b72e",
         "type": "tabs",
         "children": [
           {
-            "id": "5db3e6e80ac5b05d",
+            "id": "2aa69fa6b924529b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,8 +168,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5db3e6e80ac5b05d",
+  "active": "2aa69fa6b924529b",
   "lastOpenFiles": [
+    "Check Broken state.md",
     "Untitled.md",
     "Office/Task Board.md",
     "Untitled.base",
@@ -187,7 +188,6 @@
     "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
     "Office/Build Automation.md",
-    "Check Broken state.md",
     "Learning Roadmaps/Go Roadmap.md",
     "Untitled Kanban.md",
     "Office/Untitled.canvas",

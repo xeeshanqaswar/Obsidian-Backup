@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
   "show-checkboxes": false,
   "move-tags": true
+=======
+{
+  "show-checkboxes": true,
+  "move-tags": true
+>>>>>>> a588e4dbfab0678420777eab39d516fe7198b61b
 }

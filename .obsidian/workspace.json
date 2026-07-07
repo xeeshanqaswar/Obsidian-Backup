@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e69df38e91de0e25",
+        "id": "66c6a5d8fdffe0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d32116cf88fb5a",
+            "id": "5db3e6e80ac5b05d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Ideation/Webgl Games/DS - 3DS Inspired Games.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DS - 3DS Inspired Games"
+              "title": "New tab"
             }
           }
         ]
@@ -172,32 +168,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7d32116cf88fb5a",
+  "active": "5db3e6e80ac5b05d",
   "lastOpenFiles": [
-    "Game Ideation/Webgl Games/Web GL Games Rnd.md",
+    "Untitled.md",
+    "Office/Task Board.md",
+    "Untitled.base",
+    "Books/Notes/Git-Cheat-Sheet.pdf",
+    "Books/Notes",
+    "Books/Game Development/Unity books/unity-multiplayer-games_compress.pdf",
+    "Books/Game Development/Unity books/procedural-content-generation-for-unity-game-development_compress.pdf",
+    "Books/Game Development/Unity books/game-audio-development-with-unity-5x_compress.pdf",
+    "Books/Game Development/Unity books/Unity2018ArtificialIntelligenceCookbookOver9.pdf",
+    "Books/Game Development/Unity books/Unity Certified Programmer Study Guide 9781838828424 [BooxRack].pdf",
+    "Books/Game Development/Unity books/Unity 2018 Shaders and Effects Cookbook.pdf",
+    "Books/Game Development/Unity books/Beginning Unity Editor Scripting_ Create and Publish Your Game Tools.pdf",
     "Game Ideation/Webgl Games/DS - 3DS Inspired Games.md",
-    "Game Ideation/Webgl Games",
-    "Projects/Sidekick Notes",
+    "Game Ideation/Webgl Games/Web GL Games Rnd.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
-    "Office/Task Board.md",
     "Office/Build Automation.md",
     "Check Broken state.md",
-    "Books/Game Development/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Books/Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Books/Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
     "Learning Roadmaps/Go Roadmap.md",
     "Untitled Kanban.md",
     "Office/Untitled.canvas",
     "Office/Tasks Board.md",
     "- Check Broken state.md",
     "Office/Task Sheet.md",
-    "Documents/Git Cheatsheet.pdf",
     "Documents/Linux Commands.md",
-    "Books/Computer Science",
-    "Computer Science/Structure and Interpretation of Computer Programs.pdf",
-    "Computer Science/Computer Systems A Programmers Perspective 2nd Edition---Randal Bryant David Hallaron.pdf",
-    "Computer Science",
     "In Progress.md",
     "Office/Personal Stuff/Career Roadmap.md",
     "Office/Office/In Progress.md",
@@ -207,9 +204,7 @@
     "Office/Games to consider.md",
     "Game Ideation/Rough Ideas From DS.md",
     "Office/Documentation/Git Commands.md",
-    "Untitled.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/7-NPC-Story-Bible.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md"
   ]
 }

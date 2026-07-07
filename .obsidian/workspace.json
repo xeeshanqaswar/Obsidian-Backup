@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "625cd2fa8ee4b72e",
+        "id": "47d6e905b6ed5105",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa69fa6b924529b",
+            "id": "42de4620c4fc7a76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning Roadmaps/Career Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Career Roadmap"
             }
           }
         ]
@@ -168,11 +172,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2aa69fa6b924529b",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
+    "Game Ideation/Rough Ideas  3DS.md",
+    "Game Ideation/What You Actually Need.md",
+    "Office/Tasks/July 2026 Tasks.md",
+    "Office/Tasks",
+    "Office/Build Automation.md",
+    "Office/Task Board.md",
     "Check Broken state.md",
     "Untitled.md",
-    "Office/Task Board.md",
     "Untitled.base",
     "Books/Notes/Git-Cheat-Sheet.pdf",
     "Books/Notes",
@@ -182,24 +191,20 @@
     "Books/Game Development/Unity books/Unity2018ArtificialIntelligenceCookbookOver9.pdf",
     "Books/Game Development/Unity books/Unity Certified Programmer Study Guide 9781838828424 [BooxRack].pdf",
     "Books/Game Development/Unity books/Unity 2018 Shaders and Effects Cookbook.pdf",
-    "Books/Game Development/Unity books/Beginning Unity Editor Scripting_ Create and Publish Your Game Tools.pdf",
     "Game Ideation/Webgl Games/DS - 3DS Inspired Games.md",
     "Game Ideation/Webgl Games/Web GL Games Rnd.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
-    "Office/Build Automation.md",
     "Learning Roadmaps/Go Roadmap.md",
-    "Untitled Kanban.md",
     "Office/Untitled.canvas",
     "Office/Tasks Board.md",
     "- Check Broken state.md",
     "Office/Task Sheet.md",
     "Documents/Linux Commands.md",
     "In Progress.md",
-    "Office/Personal Stuff/Career Roadmap.md",
+    "Learning Roadmaps/Career Roadmap.md",
     "Office/Office/In Progress.md",
     "Game Ideation/Game Inspirations.md",
-    "Game Ideation/Rough Ideas  3DS.md",
     "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Office/Games to consider.md",
     "Game Ideation/Rough Ideas From DS.md",

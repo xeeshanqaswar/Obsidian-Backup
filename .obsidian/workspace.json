@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "47d6e905b6ed5105",
+        "id": "09b56cf75d3a49f9",
         "type": "tabs",
         "children": [
           {
-            "id": "42de4620c4fc7a76",
+            "id": "95d891e578204988",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Learning Roadmaps/Career Roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Career Roadmap"
+              "icon": "lucide-file-text",
+              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
             }
           }
         ]
@@ -172,8 +170,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "95d891e578204988",
   "lastOpenFiles": [
+    "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
+    "Learning Roadmaps/Career Roadmap.md",
     "Game Ideation/Rough Ideas  3DS.md",
     "Game Ideation/What You Actually Need.md",
     "Office/Tasks/July 2026 Tasks.md",
@@ -202,14 +202,12 @@
     "Office/Task Sheet.md",
     "Documents/Linux Commands.md",
     "In Progress.md",
-    "Learning Roadmaps/Career Roadmap.md",
     "Office/Office/In Progress.md",
     "Game Ideation/Game Inspirations.md",
     "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Office/Games to consider.md",
     "Game Ideation/Rough Ideas From DS.md",
     "Office/Documentation/Git Commands.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/8-Pet-Animal-Breeding-System.md"
+    "Game Ideation/Moon Farm/GDD - Moon Farm/9-Festival-Seasonal-Event-Calendar.md"
   ]
 }

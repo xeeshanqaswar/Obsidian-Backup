@@ -1,3 +1,10 @@
+
+### Pre Requisites
+- 2,000+ users with strong retention before monetization
+
+### Specifications
+- Paddle payment system
+- Firebase
 ### Free vs. paid split
 
 The principle: the **free tier owns "capture and organize"** so adoption isn't throttled, and the **paid tier owns "scale, sync, and the deliverable"** — because the deliverable is the part they're literally paid to produce, so that's where willingness to pay concentrates.

@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "224907640fa365be",
+        "id": "44e65815aec44c54",
         "type": "tabs",
         "children": [
           {
-            "id": "4e86fe6623fae10f",
+            "id": "f9bd424723fdecb3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Git-Cheat-Sheet.pdf",
-                "page": 2,
-                "left": -13,
-                "top": 289,
-                "zoom": 1.1422211808809748
+                "file": "Office/Office/In Progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Git-Cheat-Sheet"
+              "icon": "lucide-file",
+              "title": "In Progress"
             }
           }
         ]
@@ -177,21 +175,33 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4e86fe6623fae10f",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
-    "Documents/Git Cheatsheet.pdf",
-    "Documents/Git-Cheat-Sheet.pdf",
-    "Projects/Sidekick Notes/Product Overview.md",
-    "Projects/Sidekick Notes/Monetization.md",
-    "Projects/Sidekick Notes/Target Audience.md",
+    "Office/Office/Guides/Credentials & Commands.md",
+    "Office/Office/Guides/Code Tidbits.md",
+    "Office/Office/Guides/IOS Build Configuration.md",
+    "Office/Office/Done Tasks/Task - Feature Course Liveliness.md",
+    "Office/Documentation/V Container Documentation.md",
+    "Office/Documentation/Unity Modular Architecture Guide.md",
+    "Office/Documentation/UniTask CheatSheet.md",
+    "Office/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
+    "Office/Documentation/Git Commands.md",
+    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
+    "Office/Tasks/July 2026 Tasks.md",
+    "Office/Office/In Progress.md",
+    "Office/Build Automation.md",
     "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Products/Sidekick Notes/Planning.md",
+    "Products/Sidekick Notes/Progress.md",
+    "Products/Sidekick Notes/Target Audience.md",
+    "Products/Sidekick Notes/Monetization.md",
+    "Documents/Git-Cheat-Sheet.pdf",
+    "Documents/Git Cheatsheet.pdf",
     "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
     "Learning Roadmaps/Career Roadmap.md",
     "Game Ideation/Rough Ideas  3DS.md",
     "Game Ideation/What You Actually Need.md",
-    "Office/Tasks/July 2026 Tasks.md",
     "Office/Tasks",
-    "Office/Build Automation.md",
     "Office/Task Board.md",
     "Check Broken state.md",
     "Untitled.md",
@@ -200,21 +210,9 @@
     "Books/Game Development/Unity books/unity-multiplayer-games_compress.pdf",
     "Books/Game Development/Unity books/procedural-content-generation-for-unity-game-development_compress.pdf",
     "Books/Game Development/Unity books/game-audio-development-with-unity-5x_compress.pdf",
-    "Books/Game Development/Unity books/Unity2018ArtificialIntelligenceCookbookOver9.pdf",
     "Game Ideation/Webgl Games/DS - 3DS Inspired Games.md",
     "Game Ideation/Webgl Games/Web GL Games Rnd.md",
     "Game Ideation/Moon Farm/GDD - Moon Farm/2-Narrative-Worldbuilding.md",
-    "Game Ideation/Moon Farm/GDD - Moon Farm/1-Game-Overview.md",
-    "Learning Roadmaps/Go Roadmap.md",
-    "Office/Untitled.canvas",
-    "Office/Tasks Board.md",
-    "- Check Broken state.md",
-    "Office/Task Sheet.md",
-    "Documents/Linux Commands.md",
-    "In Progress.md",
-    "Office/Office/In Progress.md",
-    "Game Ideation/Game Inspirations.md",
-    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
-    "Office/Games to consider.md"
+    "Office/Untitled.canvas"
   ]
 }

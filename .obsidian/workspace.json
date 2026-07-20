@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "98e8801e8ae93a09",
+        "id": "fe88aecc2347d7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "c96ef7a39e21425c",
+            "id": "5ba464eec8a13c10",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 122,
-                "left": 27,
-                "top": 425,
-                "zoom": 1.6282695048594802
-              },
-              "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
-            }
-          },
-          {
-            "id": "fcc2b258e7f0d157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office/Office/Manuals/Credentials & Commands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Credentials & Commands"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +170,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fcc2b258e7f0d157",
+  "active": "5ba464eec8a13c10",
   "lastOpenFiles": [
+    "Office/Office/Manuals/Credentials & Commands.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Office/Task Boards/July 2026.md",
     "Office/Office/Done Tasks/Task - Feature Course Liveliness.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Office/Office/Manuals/Credentials & Commands.md",
     "Office/Office/Manuals/Incremental Build.md",
     "Office/Office/Manuals/Code Tidbits.md",
     "Office/Office/Manuals/Incremental Addressables.md",

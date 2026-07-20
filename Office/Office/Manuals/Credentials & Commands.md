@@ -47,5 +47,3 @@ Password: pvp3_ddDF-cwvJv
 administrator
 MS@MAC1#**
 
-### Gemini api key
-`AQ.Ab8RN6I5Na4k1ACkoDqYbSvOshK5HDYuEQaeh_9-mocAOAPmEg`

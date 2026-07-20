@@ -27,7 +27,7 @@ Bucket URL: https://storage.googleapis.com/static.progolf.cash/Bundles/1.4.4/dev
 - Old Password: **Zeeshan@MS1#**
 - New Password: **ZeeshanQaswar@123**
 - Appleid: **ZeeshanQaswar@Apple123**
-- Cocos: ZeeshanQaswar123
+- Cocos & Phaser: ZeeshanQaswar123
 - Unity: ZeeshanQaswar@123456
 - Mega Recovery: qTjNC1BXpDbiAolZ0fYAcg\
 InterestingJudgeButcher
@@ -47,4 +47,5 @@ Password: pvp3_ddDF-cwvJv
 administrator
 MS@MAC1#**
 
-
+### Gemini api key
+`AQ.Ab8RN6I5Na4k1ACkoDqYbSvOshK5HDYuEQaeh_9-mocAOAPmEg`

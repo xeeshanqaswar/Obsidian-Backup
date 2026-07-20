@@ -27,20 +27,14 @@
             "id": "fcc2b258e7f0d157",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Office/Task Boards/July 2026.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Office/Office/Manuals/Credentials & Commands.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "July 2026"
+              "icon": "lucide-file",
+              "title": "Credentials & Commands"
             }
           }
         ],
@@ -199,13 +193,13 @@
   },
   "active": "fcc2b258e7f0d157",
   "lastOpenFiles": [
+    "Office/Task Boards/July 2026.md",
     "Office/Office/Done Tasks/Task - Feature Course Liveliness.md",
     "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Office/Office/Manuals/Credentials & Commands.md",
     "Office/Office/Manuals/Incremental Build.md",
     "Office/Office/Manuals/Code Tidbits.md",
     "Office/Office/Manuals/Incremental Addressables.md",
-    "Office/Task Boards/July 2026.md",
     "Office/Build Automation.md",
     "Office/Office/In Progress.md",
     "Office/Office/Manuals/IOS Build Configuration.md",

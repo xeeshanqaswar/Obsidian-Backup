@@ -4,17 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fe88aecc2347d7d3",
+        "id": "0a909891f23876b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5ba464eec8a13c10",
+            "id": "8172740ab55dc5a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "My Progression.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "My Progression"
             }
           }
         ]
@@ -170,38 +181,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ba464eec8a13c10",
+  "active": "8172740ab55dc5a0",
   "lastOpenFiles": [
-    "Office/Office/Manuals/Credentials & Commands.md",
+    "Mindstorm/Task Boards/July 2026.md",
+    "My Progression.md",
+    "Side Projects/Sidekick Notes/Monetization.md",
+    "Side Projects/Sidekick Notes/Planning.md",
+    "Side Projects/Sidekick Notes/Target Audience.md",
+    "Side Projects/Sidekick Notes/Progress.md",
     "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Office/Task Boards/July 2026.md",
-    "Office/Office/Done Tasks/Task - Feature Course Liveliness.md",
-    "Office/Office/Manuals/Incremental Build.md",
-    "Office/Office/Manuals/Code Tidbits.md",
+    "Mindstorm/Office/Manuals/Credentials & Commands.md",
+    "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
+    "Mindstorm/Office/Manuals/Incremental Build.md",
+    "Mindstorm/Office/Manuals/Code Tidbits.md",
     "Office/Office/Manuals/Incremental Addressables.md",
-    "Office/Build Automation.md",
-    "Office/Office/In Progress.md",
-    "Office/Office/Manuals/IOS Build Configuration.md",
-    "Office/Documentation/V Container Documentation.md",
-    "Office/Documentation/Unity Modular Architecture Guide.md",
-    "Office/Documentation/UniTask CheatSheet.md",
-    "Office/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Office/Documentation/Git Commands.md",
-    "Office/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
-    "Products/Sidekick Notes/Planning.md",
-    "Products/Sidekick Notes/Progress.md",
-    "Products/Sidekick Notes/Target Audience.md",
-    "Products/Sidekick Notes/Monetization.md",
+    "Mindstorm/Build Automation.md",
+    "Mindstorm/Office/In Progress.md",
+    "Mindstorm/Office/Manuals/IOS Build Configuration.md",
+    "Mindstorm/Documentation/V Container Documentation.md",
+    "Mindstorm/Documentation/Unity Modular Architecture Guide.md",
+    "Mindstorm/Documentation/UniTask CheatSheet.md",
+    "Mindstorm/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
+    "Mindstorm/Documentation/Git Commands.md",
+    "Mindstorm/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Documents/Git-Cheat-Sheet.pdf",
     "Documents/Git Cheatsheet.pdf",
     "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
     "Learning Roadmaps/Career Roadmap.md",
-    "Game Ideation/Rough Ideas  3DS.md",
-    "Game Ideation/What You Actually Need.md",
-    "Office/Task Boards",
+    "Game Ideas/Rough Ideas  3DS.md",
+    "Game Ideas/What You Actually Need.md",
+    "Mindstorm/Task Boards",
     "Office/Task Board.md",
     "Check Broken state.md",
-    "Untitled.md",
     "Untitled.base",
     "Notes",
     "Books/Game Development/Unity books/unity-multiplayer-games_compress.pdf",

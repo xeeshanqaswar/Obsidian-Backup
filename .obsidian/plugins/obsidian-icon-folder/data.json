@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLoader",
+      "🎆",
       "👔",
       "🖥",
-      "🎲",
-      "💸",
-      "🧠"
+      "🎲"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,12 +37,13 @@
   "Learning Roadmaps": "📘",
   "Resources": "💼",
   "Books": "📚",
-  "Office": "🏢",
-  "Game Ideation": "🧠",
   "Books/Finance": "💸",
   "Books/Computer Science": "🖥",
   "Books/Personal Gromming": "👔",
   "Documents": "📂",
   "Books/Game Development": "🎲",
-  "Products": "📂"
+  "My Progression.md": "LiLoader",
+  "Game Ideas": "🧠",
+  "Side Projects": "🎆",
+  "Mindstorm": "🏢"
 }

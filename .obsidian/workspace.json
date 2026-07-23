@@ -11,6 +11,22 @@
             "id": "8172740ab55dc5a0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+                "page": 123,
+                "left": 27,
+                "top": 489,
+                "zoom": 1.6282695048594802
+              },
+              "icon": "lucide-file-text",
+              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+            }
+          },
+          {
+            "id": "94bc507802b0db7a",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "My Progression.md",
@@ -28,7 +44,8 @@
               "title": "My Progression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +198,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8172740ab55dc5a0",
+  "active": "94bc507802b0db7a",
   "lastOpenFiles": [
-    "Mindstorm/Task Boards/July 2026.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "My Progression.md",
+    "Mindstorm/Office/Manuals/Credentials & Commands.md",
+    "Mindstorm/Task Boards/July 2026.md",
     "Side Projects/Sidekick Notes/Monetization.md",
     "Side Projects/Sidekick Notes/Planning.md",
     "Side Projects/Sidekick Notes/Target Audience.md",
     "Side Projects/Sidekick Notes/Progress.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
     "Mindstorm/Office/Manuals/Incremental Build.md",
     "Mindstorm/Office/Manuals/Code Tidbits.md",

@@ -47,3 +47,6 @@ Password: pvp3_ddDF-cwvJv
 administrator
 MS@MAC1#**
 
+[applestore@mindstormstudios.com](mailto:applestore@mindstormstudios.com)  
+@pple$Tore1#**c
+

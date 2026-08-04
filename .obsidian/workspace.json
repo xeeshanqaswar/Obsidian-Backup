@@ -8,40 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8172740ab55dc5a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 125,
-                "left": 27,
-                "top": 669,
-                "zoom": 1.6282695048594802
-              },
-              "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
-            }
-          },
-          {
             "id": "94bc507802b0db7a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Mindstorm/Task Boards/July 2026.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Documents/Contracting/Website Audit/Website Audit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "July 2026"
+              "icon": "lucide-file",
+              "title": "Website Audit"
             }
           },
           {
@@ -56,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "Credentials & Commands"
+            }
+          },
+          {
+            "id": "3260e50a6a48fc68",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.google.com/search?q=articulated+model%3F&sca_esv=a99b4e080c0e3d0e&ei=iYhwap_rCeq5wN4P9J_f0Ak&biw=1210&bih=871&ved=0ahUKEwjf0_v6uYSWAxXqHNAFHfTPF5oQ4dUDCBA&uact=5&oq=articulated+model%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFydGljdWxhdGVkIG1vZGVsPzIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjPIVCpA1ixH3ADeAGQAQCYAb8BoAHxGqoBBDAuMjC4AQPIAQD4AQGYAhegAtAbwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAg4QABjkAhjWBBiwA9gBAcICFxAuGNwGGLgGGNoGGNgCGMgDGLAD2AEBwgIKEAAYgAQYigUYQ8ICFhAuGIAEGIoFGEMYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIOEC4YgAQYigUYsQMYgwHCAg4QABiABBiKBRixAxiDAcICBRAuGIAEwgILEAAYgAQYigUYkQLCAg4QABiABBiKBRiRAhixA8ICCxAuGIAEGLEDGIMBwgIaEC4YgAQYsQMYgwEYlwUY3AQY3gQY3wTYAQHCAggQLhiABBixA8ICDhAuGIAEGLEDGMcBGNEDmAMAiAYBkAYTugYGCAEQARgJkgcEMy4yMKAH15MBsgcEMC4yMLgHvRvCBwYwLjE0LjnIB0SACAE&sclient=gws-wiz-serp"
+              },
+              "icon": "lucide-file",
+              "title": "articulated model? - Google Search"
             }
           }
         ]
@@ -211,14 +200,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8172740ab55dc5a0",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
-    "Mindstorm/Task Boards/July 2026.md",
+    "Documents/Contracting/Website Audit",
+    "Documents/Contracting/PSEB Explained.md",
+    "Documents/Contracting/Outreach Target Audience.md",
+    "Documents/Contracting/How it works?.md",
+    "Documents/Contracting/Discovery Call Worksheet.md",
+    "Documents/Contracting/Website Audit/Website Audit.md",
+    "Documents/Contracting",
+    "Documents/Untitled.md",
+    "Mindstorm/Task Boards/August 2026.md",
+    "My Progression.md",
     "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Mindstorm/Office/Manuals/Credentials & Commands.md",
+    "Mindstorm/Task Boards/July 2026.md",
     "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
     "Mindstorm/Office/In Progress.md",
-    "My Progression.md",
     "Side Projects/Sidekick Notes/Monetization.md",
     "Side Projects/Sidekick Notes/Planning.md",
     "Side Projects/Sidekick Notes/Target Audience.md",
@@ -232,22 +230,14 @@
     "Mindstorm/Documentation/Unity Modular Architecture Guide.md",
     "Mindstorm/Documentation/UniTask CheatSheet.md",
     "Mindstorm/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Mindstorm/Documentation/Git Commands.md",
-    "Mindstorm/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Documents/Git-Cheat-Sheet.pdf",
     "Documents/Git Cheatsheet.pdf",
     "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
-    "Learning Roadmaps/Career Roadmap.md",
-    "Game Ideas/Rough Ideas  3DS.md",
-    "Game Ideas/What You Actually Need.md",
     "Mindstorm/Task Boards",
-    "Office/Task Board.md",
-    "Check Broken state.md",
     "Untitled.base",
     "Notes",
     "Books/Game Development/Unity books/unity-multiplayer-games_compress.pdf",
     "Books/Game Development/Unity books/procedural-content-generation-for-unity-game-development_compress.pdf",
-    "Books/Game Development/Unity books/game-audio-development-with-unity-5x_compress.pdf",
     "Office/Untitled.canvas"
   ]
 }

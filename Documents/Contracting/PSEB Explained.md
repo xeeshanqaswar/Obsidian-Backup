@@ -1,0 +1,10 @@
+
+The Pakistan Software Export Board is a government agency under the Ministry of IT and Telecommunications, established in 1995, whose mandate is promoting Pakistan's IT and IT-enabled services industry. Practically, it's the body that officially recognizes you as an IT exporter. [Tconsultingpk](https://tconsultingpk.com/pseb-freelancer-registration-guide-pakistan/)
+
+The concrete reason to register: registration cuts the withholding tax on your export remittances from 1% to 0.25%. On $10K/month that's roughly $900/year saved for a registration that costs a few thousand rupees. Secondary benefits are real too — a certificate you can show your bank when large international deposits start arriving and they begin asking questions, plus eligibility for government tenders and export-related facilitation. [Connectedpakistan](https://blog.connectedpakistan.pk/how-to-register-freelancer-pseb-pakistan)[Earn From Pakistan](https://earnfrompakistan.com/en/19-register-pseb-pakistan-2026-step-by-step/)
+
+The process: get your NTN first, register on the official portal, submit documents, download your certificate. NTN is free via iris.fbr.gov.pk and comes through in a day or two on your CNIC. Freelancer registration itself typically takes 2–4 working days. Then you take the certificate to your bank and to Payoneer so they apply the reduced rate. [Connectedpakistan](https://blog.connectedpakistan.pk/how-to-register-freelancer-pseb-pakistan)[ConSerIC Accountants](https://conseric.pk/pseb-registration-guide/)
+
+Two things to get right: the receiving bank account must be in your own name, not a joint account, and registration renews annually — it isn't one-and-done. And the reduced rate only applies to money that comes through formal banking channels, so no informal transfers. [Freefinancecalculators](https://freefinancecalculators.com/blog/pseb-registration-freelancers-pakistan-2026)
+
+Fees and portal URLs shift, so confirm current details on the official PSEB site rather than trusting a blog — including mine.

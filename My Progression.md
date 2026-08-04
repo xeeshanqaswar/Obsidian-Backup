@@ -16,6 +16,9 @@ kanban-plugin: board
 	- 5k Pant Shirt Gift
 	
 	Total = 25k Total Spending
+- [ ] #### Shader Book
+	
+	- https://www.gameslave.dev/theshadersurvivalguide
 
 
 ## In Progress

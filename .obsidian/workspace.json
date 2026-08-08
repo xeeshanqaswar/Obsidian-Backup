@@ -14,27 +14,16 @@
               "type": "pdf",
               "state": {
                 "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 129,
+                "page": 130,
                 "left": 27,
-                "top": 461,
+                "top": 635,
                 "zoom": 1.6282695048594802
               },
               "icon": "lucide-file-text",
               "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
             }
-          },
-          {
-            "id": "90d735d236fc19a0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +176,30 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "90d735d236fc19a0",
+  "active": "d1c567f19d6e890d",
   "lastOpenFiles": [
+    "Side Projects/Progression.md",
+    "Learning Roadmaps/Progression.md",
+    "Learning Roadmaps/Go Books.md",
+    "Mindstorm/Documentation/UniTask CheatSheet.md",
+    "Mindstorm/Documentation/Unity Modular Architecture Guide.md",
+    "Mindstorm/Documentation/V Container Documentation.md",
+    "Documents/V Container.md",
+    "Mindstorm/Documentation/Git Commands.md",
     "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Documents/Git-Cheat-Sheet.pdf",
+    "Documents/Contracting/Outreach Target Audience.md",
+    "Documents/Contracting/Discovery Call Worksheet.md",
+    "Mindstorm/Task Boards/August 2026.md",
     "Mindstorm/Office/Manuals/Credentials & Commands.md",
+    "Mindstorm/July Sentiments.md",
+    "Mindstorm/Build Automation.md",
     "Documents/Contracting/Website Audit/Website Audit.md",
     "Documents/Contracting/Website Audit",
     "Documents/Contracting/PSEB Explained.md",
-    "Documents/Contracting/Outreach Target Audience.md",
     "Documents/Contracting/How it works?.md",
-    "Documents/Contracting/Discovery Call Worksheet.md",
     "Documents/Contracting",
     "Documents/Untitled.md",
-    "Mindstorm/Task Boards/August 2026.md",
-    "My Progression.md",
     "Mindstorm/Task Boards/July 2026.md",
     "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
     "Mindstorm/Office/In Progress.md",
@@ -209,15 +208,6 @@
     "Side Projects/Sidekick Notes/Target Audience.md",
     "Side Projects/Sidekick Notes/Progress.md",
     "Mindstorm/Office/Manuals/Incremental Build.md",
-    "Mindstorm/Office/Manuals/Code Tidbits.md",
-    "Office/Office/Manuals/Incremental Addressables.md",
-    "Mindstorm/Build Automation.md",
-    "Mindstorm/Office/Manuals/IOS Build Configuration.md",
-    "Mindstorm/Documentation/V Container Documentation.md",
-    "Mindstorm/Documentation/Unity Modular Architecture Guide.md",
-    "Mindstorm/Documentation/UniTask CheatSheet.md",
-    "Mindstorm/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Documents/Git-Cheat-Sheet.pdf",
     "Documents/Git Cheatsheet.pdf",
     "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
     "Mindstorm/Task Boards",

@@ -42,9 +42,10 @@
   "Books/Personal Gromming": "👔",
   "Documents": "📂",
   "Books/Game Development": "🎲",
-  "My Progression.md": "LiLoader",
   "Game Ideas": "🧠",
   "Side Projects": "🎆",
   "Mindstorm": "🏢",
-  "Documents/Contracting": "LiFileSignature"
+  "Documents/Contracting": "LiFileSignature",
+  "Side Projects/Progression.md": "LiLoader",
+  "Learning Roadmaps/Progression.md": "LiLoader"
 }

@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 130,
+                "page": 131,
                 "left": 27,
-                "top": 635,
+                "top": 498,
                 "zoom": 1.6282695048594802
               },
               "icon": "lucide-file-text",
@@ -176,7 +176,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d1c567f19d6e890d",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
     "Side Projects/Progression.md",
     "Learning Roadmaps/Progression.md",
@@ -197,7 +197,7 @@
     "Documents/Contracting/Website Audit/Website Audit.md",
     "Documents/Contracting/Website Audit",
     "Documents/Contracting/PSEB Explained.md",
-    "Documents/Contracting/How it works?.md",
+    "Documents/Contracting/How it works.md",
     "Documents/Contracting",
     "Documents/Untitled.md",
     "Mindstorm/Task Boards/July 2026.md",

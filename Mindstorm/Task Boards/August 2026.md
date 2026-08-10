@@ -15,14 +15,24 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] ### Playable
-	** 6 Aug 2026 **
-	- Ui changed based on review
-	- Previously club was being swaped by comming from left changed to swing animation
-	- Start working on new Club selection variant
+	**10 Aug 2026** 
+	- Events hooked for new variants and guarded for old variants
+	- New playable assigned **base1noendcard_13**
+	- Merge with main branch, Conflict Resolution and fix broken build issues.
 
 
 ## Completed
 
+- [ ] ### Playable
+	**7 Aug 2026**
+	- Alternative Club Selection Implmeneted
+	- Club Selection UI Reviewed and new mockup implemented.
+	- Animations implmeneted
+- [ ] ### Playable
+	** 6 Aug 2026 **
+	- Ui changed based on review
+	- Previously club was being swaped by comming from left changed to swing animation
+	- Start working on new Club selection variant
 - [ ] ### Playable
 	** 5 Aug 2026 **
 	- Club Selection feature 

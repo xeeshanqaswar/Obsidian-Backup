@@ -8,19 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1c567f19d6e890d",
+            "id": "3d03ad098bc85d43",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 131,
-                "left": 27,
-                "top": 498,
-                "zoom": 1.6282695048594802
+                "file": "Side Projects/Dressup game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+              "icon": "lucide-file",
+              "title": "Dressup game"
+            }
+          },
+          {
+            "id": "a83a5312f7b638be",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Mindstorm/Task Boards/August 2026.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "August 2026"
             }
           }
         ]
@@ -176,8 +195,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "3d03ad098bc85d43",
   "lastOpenFiles": [
+    "Pasted image 20260810165823.png",
+    "Mindstorm/Task Boards/August 2026.md",
+    "Side Projects/Dressup game.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Game Ideas/Game Inspirations.md",
     "Side Projects/Progression.md",
     "Learning Roadmaps/Progression.md",
     "Learning Roadmaps/Go Books.md",
@@ -186,11 +210,9 @@
     "Mindstorm/Documentation/V Container Documentation.md",
     "Documents/V Container.md",
     "Mindstorm/Documentation/Git Commands.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Documents/Git-Cheat-Sheet.pdf",
     "Documents/Contracting/Outreach Target Audience.md",
     "Documents/Contracting/Discovery Call Worksheet.md",
-    "Mindstorm/Task Boards/August 2026.md",
     "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/July Sentiments.md",
     "Mindstorm/Build Automation.md",
@@ -205,9 +227,6 @@
     "Mindstorm/Office/In Progress.md",
     "Side Projects/Sidekick Notes/Monetization.md",
     "Side Projects/Sidekick Notes/Planning.md",
-    "Side Projects/Sidekick Notes/Target Audience.md",
-    "Side Projects/Sidekick Notes/Progress.md",
-    "Mindstorm/Office/Manuals/Incremental Build.md",
     "Documents/Git Cheatsheet.pdf",
     "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
     "Mindstorm/Task Boards",

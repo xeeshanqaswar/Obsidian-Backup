@@ -27,6 +27,48 @@ versus
 > "Create your fashion identity → complete styling challenges → get judged → earn followers → unlock clothes → create increasingly impressive selfies."
 
 Same fundamental technology, completely different product.
+## Design language
+
+![[Pasted image 20260815023329.png|997]]
+
+![[Pasted image 20260815023357.png]]
+
+![[Pasted image 20260815023413.png]]
+
+![[Pasted image 20260815023422.png]]
+
+Notice the common elements:
+
+- White backgrounds
+- Frosted glass panels
+- Very soft shadows
+- Gold accents
+- Rounded 20–40 px corners
+- Thin elegant outlines
+- Lots of whitespace
+- Minimal iconography
+- Luxury cosmetics brand aesthetic (Dior, Chanel, Louis Vuitton)
+
+Avoid:
+
+- Cartoon fantasy RPG frames
+- Heavy bevels
+- Thick outlines
+- Bright saturated buttons
+- Candy Crush–style UI
+- Medieval or fantasy skins
+
+---
+
+## My recommendation
+
+If your goal is to produce a game that looks like a **$20M Korean fashion game**, I’d invest in:
+
+1. **LayerLab GUI Life Game** — closest visual match.
+2. **Modern UI Pack** — excellent reusable UI components.
+3. **DeskCat DressUp** — if you need the wardrobe/customization system.
+
+That combination will get you much closer to the polished look of **Life Makeover**, **Glow**, **Shining Nikki**, or **Infinity Nikki** than almost any single Unity Asset Store package currently available.
 
 ## Selfie Competition 
 #### Flow

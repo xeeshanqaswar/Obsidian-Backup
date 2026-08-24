@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "😎",
       "LiFileSignature",
       "LiLoader",
       "🎆",
-      "👔",
-      "🖥"
+      "👔"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "Mindstorm": "🏢",
   "Documents/Contracting": "LiFileSignature",
   "Side Projects/Progression.md": "LiLoader",
-  "Learning Roadmaps/Progression.md": "LiLoader"
+  "Learning Roadmaps/Progression.md": "LiLoader",
+  "Personal": "😎"
 }

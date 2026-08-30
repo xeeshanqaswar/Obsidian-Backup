@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e7909d59c107a4d",
+        "id": "4ea36740dc338447",
         "type": "tabs",
         "children": [
           {
-            "id": "ed576bce50cc17df",
+            "id": "6e3fbfb866733028",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 670,
-                "zoom": 1.9295454545454547
+                "file": "Learning Roadmaps/Career Roadmap.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Unity 2018 Artificial Intelligence Cookbook"
+              "icon": "lucide-file",
+              "title": "Career Roadmap"
             }
           }
         ]
@@ -43,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.7000122070312
+    "width": 258.5
   },
   "right": {
     "id": "e2d2557b5d1533b2",
@@ -178,25 +174,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "df141894e978224b",
+  "active": "6e3fbfb866733028",
   "lastOpenFiles": [
-    "Books/Game Development/General/Andrew Troelsen - Pro C# 9 with .NET 5 10ed.pdf",
-    "Books/Game Development/General/Game Coding Complete, Fourth Edition.pdf",
-    "Books/Game Development/General",
-    "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
-    "Books/Game Development/Untitled.md",
-    "Books/Game Development/Math/BehavioralMathematicalforGameAI.pdf",
-    "Books/Game Development/Game AI/Practical_Game_AI_Programming.pdf",
-    "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
-    "Books/Game Development/Unity books/Unity Certified Programmer Exam Guide.pdf",
-    "Books/Game Development/Unity books/Unity Multiplayer Games.pdf",
-    "Books/Game Development/Unity books/Unity Artificial Intelligence Programming.pdf",
-    "Books/Game Development/Unity books/Beginning Unity Editor Scripting.pdf",
-    "Side Projects/Selfie Queen/Design Document.md",
     "Side Projects/Selfie Queen/Legacy Design.md",
+    "Books/Game Development/Unity books/Unity Multiplayer Games.pdf",
+    "Books/Game Development/Unity books/Unity Certified Programmer Exam Guide.pdf",
+    "Books/Game Development/Unity books/Unity Artificial Intelligence Programming.pdf",
+    "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
+    "Books/Game Development/Unity books/Procedural Content Generation for Unity Game Development.pdf",
+    "Books/Game Development/Unity books/Game Audio Development with Unity 5.X.pdf",
+    "Books/Game Development/Unity books/Beginning Unity Editor Scripting.pdf",
+    "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
+    "Books/Game Development/Math/BehavioralMathematicalforGameAI.pdf",
+    "Books/Game Development/General/Game Coding Complete, Fourth Edition.pdf",
+    "Learning Roadmaps/C Programming Roadmap.md",
+    "Learning Roadmaps/Untitled.md",
     "Personal/NAS Specifications.md",
     "Side Projects/Selfie Queen/Features/Economy.md",
     "Side Projects/Selfie Queen/Features/Clothing.md",
+    "Side Projects/Selfie Queen/Design Document.md",
     "Side Projects/Selfie Queen/Features/Monetization & Finance.md",
     "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/Side Notes.md",

@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a83a5312f7b638be",
+            "id": "ed576bce50cc17df",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 136,
-                "left": 27,
-                "top": 404,
-                "zoom": 1.6282695048594802
+                "file": "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 670,
+                "zoom": 1.9295454545454547
               },
               "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+              "title": "Unity 2018 Artificial Intelligence Cookbook"
             }
           }
         ]
@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 536.7000122070312
   },
   "right": {
     "id": "e2d2557b5d1533b2",
@@ -178,14 +180,24 @@
   },
   "active": "df141894e978224b",
   "lastOpenFiles": [
+    "Books/Game Development/General/Andrew Troelsen - Pro C# 9 with .NET 5 10ed.pdf",
+    "Books/Game Development/General/Game Coding Complete, Fourth Edition.pdf",
+    "Books/Game Development/General",
+    "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
+    "Books/Game Development/Untitled.md",
+    "Books/Game Development/Math/BehavioralMathematicalforGameAI.pdf",
+    "Books/Game Development/Game AI/Practical_Game_AI_Programming.pdf",
+    "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
+    "Books/Game Development/Unity books/Unity Certified Programmer Exam Guide.pdf",
+    "Books/Game Development/Unity books/Unity Multiplayer Games.pdf",
+    "Books/Game Development/Unity books/Unity Artificial Intelligence Programming.pdf",
+    "Books/Game Development/Unity books/Beginning Unity Editor Scripting.pdf",
+    "Side Projects/Selfie Queen/Design Document.md",
+    "Side Projects/Selfie Queen/Legacy Design.md",
     "Personal/NAS Specifications.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-    "Personal",
     "Side Projects/Selfie Queen/Features/Economy.md",
     "Side Projects/Selfie Queen/Features/Clothing.md",
-    "Side Projects/Selfie Queen/Design Document.md",
     "Side Projects/Selfie Queen/Features/Monetization & Finance.md",
-    "Side Projects/Selfie Queen/Features",
     "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/Side Notes.md",
     "Temp Notes.md",
@@ -206,18 +218,9 @@
     "Side Projects/Selfie Queen/V2 Tasks.md",
     "Side Projects/Progression.md",
     "Mindstorm/Task Boards/August 2026.md",
-    "Side Projects/Selfie Queen",
     "Game Ideas/Game Inspirations.md",
     "Learning Roadmaps/Progression.md",
     "Learning Roadmaps/Go Books.md",
-    "Mindstorm/Documentation/V Container Documentation.md",
-    "Documents/V Container.md",
-    "Documents/Git-Cheat-Sheet.pdf",
-    "Documents/Contracting/Website Audit",
-    "Documents/Contracting",
-    "Documents/Git Cheatsheet.pdf",
-    "Books/Finance/Benjamin Graham, Jason Zweig, Warren E. Buffett - The Intelligent Investor-Harper Business (1973).pdf",
-    "Mindstorm/Task Boards",
     "Office/Untitled.canvas"
   ]
 }

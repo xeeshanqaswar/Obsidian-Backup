@@ -3,7 +3,7 @@ A concise guide for structuring Unity projects using **MVP + UseCases + Domain +
 
 ---
 
-## 1. High-Level Architecture
+## 1️⃣ High-Level Architecture
 ```
 User Input
      ↓
@@ -27,7 +27,7 @@ Domain (Data + rules / canonical state)
 
 ---
 
-## 2. Project Folder Structure
+## 2️⃣ Project Folder Structure
 ```
 /Assets/Scripts
   /App
@@ -41,6 +41,7 @@ Domain (Data + rules / canonical state)
     /Domain
       PlayerWallet.cs
       Inventory.cs
+    /Presentation
 
   /Modules
     /Shop
@@ -59,38 +60,74 @@ Domain (Data + rules / canonical state)
           ShopView.cs
         /Presenters
           ShopPresenter.cs
-
-    /Match
-      /Composition
-        MatchLifetimeScope.cs
-      /Domain
-        Match.cs
-        Hole.cs
-      /UseCases
-        TakeShotUseCase.cs
-        EndHoleUseCase.cs
-      /Services
-        MatchTimerService.cs
-      /Presentation
-        /Views
-          ScoreView.cs
-        /Presenters
-          ScorePresenter.cs
 ```
-
-### Layer Roles
-- **App/Composition:** Global DI wiring, global LifetimeScope
-- **App/Infrastructure:** Cross-cutting services or engine/platform adapters
-- **App/Domain:** Global game state (shared across modules)
-- **Module/Composition:** Module-specific DI wiring
-- **Module/Domain:** Module-local state & rules
-- **Module/UseCases:** Module actions or orchestration
-- **Module/Services:** Feature-specific helpers or adapters
-- **Module/Presentation:** Views (MonoBehaviour) + Presenters
 
 ---
 
-## 3. Rules of Thumb: Global vs Module-local
+## 3️⃣ VContainer Code Examples
+
+### App-Level: AppLifetimeScope
+```csharp
+using VContainer;
+using VContainer.Unity;
+using UnityEngine;
+
+public class AppLifetimeScope : LifetimeScope
+{
+    [SerializeField] private AudioService audioServicePrefab;
+
+    protected override void Configure(IContainerBuilder builder)
+    {
+        // Global Services
+        builder.RegisterComponentInHierarchy(audioServicePrefab); // MonoBehaviour service
+        builder.Register<SaveLoadService>(Lifetime.Singleton);   // Plain C# service
+        builder.Register<UnityExceptionSource>(Lifetime.Singleton);
+        builder.Register<AnalyticsService>(Lifetime.Singleton);
+
+        // Global Domain
+        builder.Register<PlayerWallet>(Lifetime.Singleton);
+        builder.Register<Inventory>(Lifetime.Singleton);
+    }
+}
+```
+
+### Module-Level: ShopLifetimeScope
+```csharp
+using VContainer;
+using VContainer.Unity;
+using UnityEngine;
+
+public class ShopLifetimeScope : LifetimeScope
+{
+    [SerializeField] private ShopView shopView;
+
+    protected override void Configure(IContainerBuilder builder)
+    {
+        // Module Presentation
+        builder.RegisterComponentInHierarchy(shopView);
+        builder.Register<ShopPresenter>(Lifetime.Scoped);
+
+        // Module UseCases
+        builder.Register<BuyItemUseCase>(Lifetime.Scoped);
+        builder.Register<RefreshShopUseCase>(Lifetime.Scoped);
+
+        // Module Domain
+        builder.Register<ShopItem>(Lifetime.Scoped);
+        builder.Register<ShopRules>(Lifetime.Scoped);
+
+        // Module Services
+        builder.Register<ShopPricingService>(Lifetime.Scoped);
+    }
+}
+```
+
+- **AppLifetimeScope:** singleton/global objects that persist across the entire game
+- **ModuleLifetimeScope:** scene or feature-specific objects, disposed when module/scene unloads
+- Module scopes can access **App scope objects automatically**
+
+---
+
+## 4️⃣ Rules of Thumb: Global vs Module-local
 | Decision | Global (App) | Module-local |
 |----------|--------------|--------------|
 | Used by multiple features? | ✅ | ❌ |
@@ -101,7 +138,7 @@ Domain (Data + rules / canonical state)
 
 ---
 
-## 4. Domain Guidelines
+## 5️⃣ Domain Guidelines
 - **Combine data + rules in one class** unless rules span multiple models
 - Example:
 ```csharp
@@ -119,7 +156,7 @@ public class PlayerWallet {
 
 ---
 
-## 5. Services Guidelines
+## 6️⃣ Services Guidelines
 - **App-level services:** Cross-cutting, reusable across modules
   - AudioService, SaveLoadService, AnalyticsService, UnityExceptionSource
 - **Module-level services:** Feature-specific helpers
@@ -142,7 +179,7 @@ public class UnityExceptionSource : MonoBehaviour {
 
 ---
 
-## 6. VContainer LifetimeScopes
+## 7️⃣ VContainer LifetimeScopes
 | Scope | Lifetime | Typical use |
 |-------|---------|-------------|
 | AppLifetimeScope | Singleton | Global services & domain objects
@@ -154,7 +191,7 @@ public class UnityExceptionSource : MonoBehaviour {
 
 ---
 
-## 7. Naming Guidelines
+## 8️⃣ Naming Guidelines
 | Layer | Naming |
 |-------|--------|
 | Domain | `Noun` (PlayerWallet, Hole) |
@@ -167,7 +204,7 @@ public class UnityExceptionSource : MonoBehaviour {
 
 ---
 
-## 8. Mental Model
+## 9️⃣ Mental Model
 ```
 AppLifetimeScope (global)
    ├─ Global services (AudioService, SaveLoadService)
@@ -185,7 +222,7 @@ User clicks → View → Presenter → UseCase → Domain → Service (side effe
 
 ---
 
-## 9. Key Rules of Thumb
+## 10️⃣ Key Rules of Thumb
 1. Keep Domain pure and cohesive (data + rules in one class unless spanning multiple entities)
 2. Module self-contained: domain, use cases, presenters, views, feature services
 3. Global shared things: App/Domain, App/Infrastructure, AppLifetimeScope
@@ -200,20 +237,4 @@ User clicks → View → Presenter → UseCase → Domain → Service (side effe
 - Testable domain and use cases
 - Clear dependency direction
 - Safe scene transitions and global state management
-
---------------------------------------------------------
-
-- **Clean Code** — polish your coding fundamentals
-    
-- **Design Patterns (GoF)** — learn reusable design structures
-    
-- **Clean Architecture** — understand layers and dependencies
-    
-- **Working with Legacy Code** — refactor safely
-    
-- **Implementing DDD** — bring domain modeling into practice
-    
-- **Domain‑Driven Design (Evans)** — deep dive into domain modeling
-    
-- **Game Programming Patterns** — game‑specific structural wisdom
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea36740dc338447",
+        "id": "f27f36f2895b0e63",
         "type": "tabs",
         "children": [
           {
-            "id": "6e3fbfb866733028",
+            "id": "01bd4df68a74cbed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Roadmaps/Career Roadmap.md",
-                "mode": "source",
+                "file": "Mindstorm/Documentation/Git Commands.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Career Roadmap"
+              "title": "Git Commands"
             }
           }
         ]
@@ -174,8 +174,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6e3fbfb866733028",
+  "active": "01bd4df68a74cbed",
   "lastOpenFiles": [
+    "Documents/Contracting/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
+    "Documents/🎮 Solo Game Developer Skills & Mindset.md",
+    "Mindstorm/Documentation/Git Commands.md",
+    "Documents/Unity Modular Architecture Guide.md",
+    "Documents/Unity Modular Architecture Guide.md",
+    "Mindstorm/Project Onboarding.md",
+    "Mindstorm/Build Automation.md",
+    "Learning Roadmaps/Career Roadmap.md",
     "Side Projects/Selfie Queen/Legacy Design.md",
     "Books/Game Development/Unity books/Unity Multiplayer Games.pdf",
     "Books/Game Development/Unity books/Unity Certified Programmer Exam Guide.pdf",
@@ -199,13 +207,8 @@
     "Temp Notes.md",
     "Mindstorm/Office/Manuals/Code Tidbits.md",
     "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
-    "Mindstorm/Documentation/Unity Modular Architecture Guide.md",
-    "Mindstorm/Documentation/UniTask CheatSheet.md",
-    "Mindstorm/Documentation/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Mindstorm/Documentation/Git Commands.md",
-    "Mindstorm/Documentation/🎮 Solo Game Developer Skills & Mindset.md",
+    "Documents/UniTask CheatSheet.md",
     "Mindstorm/July Sentiments.md",
-    "Mindstorm/Build Automation.md",
     "Pasted image 20260815023357.png",
     "Pasted image 20260815023329.png",
     "Pasted image 20260810165823.png",
@@ -214,9 +217,6 @@
     "Side Projects/Selfie Queen/V2 Tasks.md",
     "Side Projects/Progression.md",
     "Mindstorm/Task Boards/August 2026.md",
-    "Game Ideas/Game Inspirations.md",
-    "Learning Roadmaps/Progression.md",
-    "Learning Roadmaps/Go Books.md",
     "Office/Untitled.canvas"
   ]
 }

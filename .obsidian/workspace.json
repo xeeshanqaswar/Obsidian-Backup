@@ -20,6 +20,22 @@
               "icon": "lucide-file",
               "title": "Git Commands"
             }
+          },
+          {
+            "id": "f0e8e6e75e865b19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+                "page": 152,
+                "left": -61,
+                "top": 441,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
+            }
           }
         ]
       }
@@ -176,11 +192,18 @@
   },
   "active": "01bd4df68a74cbed",
   "lastOpenFiles": [
+    "Documents/Pragmatic_Unity_Clean_Architecture_VContainer_Bible_v2.md",
+    "Documents/Pragmatic Clean Architecture for Unity + VContainer.md",
+    "Mindstorm/Documentation/Git Commands.md",
+    "Documents/Unity Clean Architecture Summary.md",
+    "Documents/Chatgpt Unity Architecture.md",
+    "Documents/Google Unity Architecture.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
+    "Documents/V Container.md",
+    "Documents/Unity Modular Architecture Guide.md",
     "Documents/Contracting/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
     "Documents/🎮 Solo Game Developer Skills & Mindset.md",
-    "Mindstorm/Documentation/Git Commands.md",
-    "Documents/Unity Modular Architecture Guide.md",
-    "Documents/Unity Modular Architecture Guide.md",
     "Mindstorm/Project Onboarding.md",
     "Mindstorm/Build Automation.md",
     "Learning Roadmaps/Career Roadmap.md",
@@ -192,9 +215,7 @@
     "Books/Game Development/Unity books/Procedural Content Generation for Unity Game Development.pdf",
     "Books/Game Development/Unity books/Game Audio Development with Unity 5.X.pdf",
     "Books/Game Development/Unity books/Beginning Unity Editor Scripting.pdf",
-    "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
     "Books/Game Development/Math/BehavioralMathematicalforGameAI.pdf",
-    "Books/Game Development/General/Game Coding Complete, Fourth Edition.pdf",
     "Learning Roadmaps/C Programming Roadmap.md",
     "Learning Roadmaps/Untitled.md",
     "Personal/NAS Specifications.md",
@@ -207,16 +228,11 @@
     "Temp Notes.md",
     "Mindstorm/Office/Manuals/Code Tidbits.md",
     "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
-    "Documents/UniTask CheatSheet.md",
-    "Mindstorm/July Sentiments.md",
     "Pasted image 20260815023357.png",
     "Pasted image 20260815023329.png",
     "Pasted image 20260810165823.png",
     "Pasted image 20260815023422.png",
     "Pasted image 20260815023413.png",
-    "Side Projects/Selfie Queen/V2 Tasks.md",
-    "Side Projects/Progression.md",
-    "Mindstorm/Task Boards/August 2026.md",
     "Office/Untitled.canvas"
   ]
 }

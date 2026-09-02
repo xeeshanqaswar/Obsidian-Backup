@@ -28,7 +28,14 @@ You can keep things organized:
 
 Create this in your initial scene:
 
-`public class AppLifetimeScope : LifetimeScope {     protected override void Configure(IContainerBuilder builder)     {         builder.Register<SaveService>(Lifetime.Singleton);         builder.Register<GameManager>(Lifetime.Singleton);     } }`
+`public class AppLifetimeScope : LifetimeScope 
+{     
+	protected override void Configure(IContainerBuilder builder)
+		 {         
+			 builder.Register<SaveService>(Lifetime.Singleton);         
+			 builder.Register<GameManager>(Lifetime.Singleton);     
+		 }
+  }`
 
 Now any scene or prefab can inject `SaveService` or `GameManager`.
 
@@ -46,11 +53,20 @@ You avoid `FindObjectOfType`, `new` in MonoBehaviours, and spaghetti singletons.
 
 ### ⭐ Example
 
-`public class PlayerService {     private readonly IInputService _input;      public PlayerService(IInputService input)     {         _input = input;     } }`
+`public class PlayerService 
+	{     
+		private readonly IInputService _input;
+		
+		public PlayerService(IInputService input)     
+		{         
+			_input = input;     
+		} 
+	}`
 
 Register both:
 
-`builder.Register<IInputService, InputService>(Lifetime.Singleton); builder.Register<PlayerService>(Lifetime.Singleton);`
+`builder.Register<IInputService, InputService>(Lifetime.Singleton); 
+builder.Register<PlayerService>(Lifetime.Singleton);`
 
 Now PlayerService automatically receives InputService.
 
@@ -194,7 +210,20 @@ You can manually create objects but still have injection.
 
 ### **Factory for a C# class**
 
-`public class BulletFactory {     private readonly IObjectResolver container;      public BulletFactory(IObjectResolver container)     {         this.container = container;     }      public Bullet Create()     {         return container.Resolve<Bullet>();     } }`
+`public class BulletFactory {     
+
+	 private readonly IObjectResolver container;
+	 
+	 public BulletFactory(IObjectResolver container)     
+	 {         
+		 this.container = container;
+	  }      
+	  
+	  public Bullet Create()
+	   {         
+		   return container.Resolve<Bullet>();
+	 }
+  }`
 
 Register:
 

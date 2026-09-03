@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mindstorm/Documentation/Git Commands.md",
+                "file": "Side Projects/Guides/Mobile Game Reverse-Engineering & Replica Scope Prompt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Commands"
+              "title": "Mobile Game Reverse-Engineering & Replica Scope Prompt"
             }
           },
           {
@@ -29,7 +29,7 @@
               "state": {
                 "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
                 "page": 152,
-                "left": -61,
+                "left": 16,
                 "top": 441,
                 "zoom": 1.5
               },
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 308.5
   },
   "right": {
     "id": "e2d2557b5d1533b2",
@@ -190,20 +190,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "01bd4df68a74cbed",
+  "active": "df141894e978224b",
   "lastOpenFiles": [
-    "Documents/Pragmatic_Unity_Clean_Architecture_VContainer_Bible_v2.md",
-    "Documents/Pragmatic Clean Architecture for Unity + VContainer.md",
+    "Side Projects/Untitled.md",
+    "Side Projects/Truck Simulator",
+    "Side Projects/Guides",
+    "Documentation/Contracting/Website Audit/Website Audit.md",
+    "Side Projects/Truck Simulator/Truck_Simulator_Ultimate_GDD.md",
+    "Side Projects/Guides/Mobile Game Reverse-Engineering & Replica Scope Prompt.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/Documentation/Git Commands.md",
+    "Documentation/Pragmatic_Unity_Clean_Architecture_VContainer_Bible_v2.md",
+    "Documents/Pragmatic Clean Architecture for Unity + VContainer.md",
     "Documents/Unity Clean Architecture Summary.md",
     "Documents/Chatgpt Unity Architecture.md",
     "Documents/Google Unity Architecture.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Books/Game Development/Math/Mathematics for 3D Game Programming and Computer Graphics (Third Edition).pdf",
-    "Documents/V Container.md",
+    "Documentation/V Container.md",
     "Documents/Unity Modular Architecture Guide.md",
-    "Documents/Contracting/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
-    "Documents/🎮 Solo Game Developer Skills & Mindset.md",
+    "Documentation/Contracting/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
+    "Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Mindstorm/Project Onboarding.md",
     "Mindstorm/Build Automation.md",
     "Learning Roadmaps/Career Roadmap.md",
@@ -214,20 +221,12 @@
     "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
     "Books/Game Development/Unity books/Procedural Content Generation for Unity Game Development.pdf",
     "Books/Game Development/Unity books/Game Audio Development with Unity 5.X.pdf",
-    "Books/Game Development/Unity books/Beginning Unity Editor Scripting.pdf",
-    "Books/Game Development/Math/BehavioralMathematicalforGameAI.pdf",
     "Learning Roadmaps/C Programming Roadmap.md",
     "Learning Roadmaps/Untitled.md",
     "Personal/NAS Specifications.md",
     "Side Projects/Selfie Queen/Features/Economy.md",
     "Side Projects/Selfie Queen/Features/Clothing.md",
     "Side Projects/Selfie Queen/Design Document.md",
-    "Side Projects/Selfie Queen/Features/Monetization & Finance.md",
-    "Mindstorm/Office/Manuals/Credentials & Commands.md",
-    "Mindstorm/Side Notes.md",
-    "Temp Notes.md",
-    "Mindstorm/Office/Manuals/Code Tidbits.md",
-    "Mindstorm/Office/Done Tasks/Task - Feature Course Liveliness.md",
     "Pasted image 20260815023357.png",
     "Pasted image 20260815023329.png",
     "Pasted image 20260810165823.png",

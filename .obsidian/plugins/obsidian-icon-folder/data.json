@@ -40,13 +40,13 @@
   "Books/Finance": "💸",
   "Books/Computer Science": "🖥",
   "Books/Personal Gromming": "👔",
-  "Documents": "📂",
   "Books/Game Development": "🎲",
   "Game Ideas": "🧠",
   "Side Projects": "🎆",
   "Mindstorm": "🏢",
-  "Documents/Contracting": "LiFileSignature",
   "Side Projects/Progression.md": "LiLoader",
   "Learning Roadmaps/Progression.md": "LiLoader",
-  "Personal": "😎"
+  "Personal": "😎",
+  "Documentation": "📂",
+  "Documentation/Contracting": "LiFileSignature"
 }

@@ -12,6 +12,17 @@
 | 9        | Hybrid-casual puzzle                       | Med                 | Medium             | Low without UA        | Very High             | **Extreme**     | Bigger upside, bigger risk |
 | 10       | Merge-2                                    | High                | **Extreme**        | Medium                | Very High             | **Extreme**     | Wrong solo target          |
 
+ 
+### Business Architecture 
+
+***Simple satisfying activity → earn resources → build/upgrade something → collect things → automate → unlock new area/content → repeat***
+
+I would investigate four buckets deeply:
+
+1. **Systemic management:** blacksmith, tavern, hotel, shop, zoo, aquarium, farm, restaurant, etc.
+2. **Collection/adventure:** fishing, creatures, treasure, dinosaurs, bugs, pets, exploration.
+3. **Small systemic action games:** dungeon crawler, extraction-lite, survivor, tiny sandbox, GTA-lite concepts.
+4. **Forgotten mechanics:** DS/3DS/PSP/older PC/console gameplay loops that haven’t been exploited heavily on modern mobile.
 ### Priority Order
 
 **Cozy incremental → niche management → pet/creature collection → card/solitaire hybrid → hidden object → word/logic → decorating → fashion.**

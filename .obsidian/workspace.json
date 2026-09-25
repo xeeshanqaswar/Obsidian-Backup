@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b66ede6a78167eb2",
+        "id": "6ba4503fc371e8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a84a354cd64b2e",
+            "id": "f7670d2a3fbc55fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
-                "page": 153,
-                "left": 27,
-                "top": 454,
-                "zoom": 1.558685337985143
-              },
-              "icon": "lucide-file-text",
-              "title": "3D Math Primer for Graphics and Game Development 2nd Edition"
-            }
-          },
-          {
-            "id": "1d1e68dfc1a392d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mindstorm/Office/Manuals/Credentials & Commands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Credentials & Commands"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,20 +172,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1d1e68dfc1a392d8",
+  "active": "f7670d2a3fbc55fc",
   "lastOpenFiles": [
-    "Ps1 - 2ds Xl Games List.md",
+    "Side Projects/Zelda Like Game/Zelda Like - Game Assets.md",
     "Side Projects/Guides/Solo Dev Genres.md",
-    "Games",
+    "Side Projects/Zelda Like Game",
     "Side Projects/Guides/Prompt - Mobile Game Reverse-Engineering & Replica Scope.md",
+    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
+    "Mindstorm/Office/Manuals/Credentials & Commands.md",
+    "Ps1 - 2ds Xl Games List.md",
+    "Games",
     "Mindstorm/Task Boards/July 2026.md",
     "Mindstorm/Task Boards/August 2026.md",
     "Mindstorm/Office/Manuals/IOS Build Configuration.md",
     "Mindstorm/Office/Manuals/Incremental Build.md",
-    "Mindstorm/Office/Manuals/Credentials & Commands.md",
     "Mindstorm/Office/Manuals/Code Tidbits.md",
     "Side Projects/Acquarium.md",
-    "Books/Game Development/Math/3D Math Primer for Graphics and Game Development 2nd Edition.pdf",
     "Untitled.md",
     "Side Projects/Truck Simulator/Project Stack.md",
     "Side Projects/Truck Simulator/Truck_Simulator_Ultimate_GDD.md",
@@ -225,12 +206,10 @@
     "Documentation/Contracting/Solo Game Developer Skills & Mindset (Inspired by AdvanceNine).md",
     "Documentation/🎮 Solo Game Developer Skills & Mindset.md",
     "Mindstorm/Project Onboarding.md",
-    "Mindstorm/Build Automation.md",
     "Books/Game Development/Unity books/Unity Multiplayer Games.pdf",
     "Books/Game Development/Unity books/Unity Certified Programmer Exam Guide.pdf",
     "Books/Game Development/Unity books/Unity Artificial Intelligence Programming.pdf",
     "Books/Game Development/Unity books/Unity 2018 Artificial Intelligence Cookbook.pdf",
-    "Books/Game Development/Unity books/Procedural Content Generation for Unity Game Development.pdf",
     "Pasted image 20260815023357.png",
     "Pasted image 20260815023329.png",
     "Pasted image 20260810165823.png",
